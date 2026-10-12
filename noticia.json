@@ -1,0 +1,12 @@
+{
+  "data": "2026-10-12",
+  "fonte": "BBC News",
+  "manchete": "Why hotter summers are making British potatoes smaller",
+  "url": "https://www.bbc.co.uk/news/articles/cmp3033l15qwo",
+  "comentario": "Olha que estrutura útil nessa manchete: \"make + algo + adjetivo\", como em \"making potatoes smaller\", que significa \"fazer com que fiquem menores\". Os britânicos usam muito esse padrão no dia a dia, por exemplo \"This makes me nervous\". Repare também que \"yields\" no texto quer dizer a quantidade colhida, um uso muito comum quando se fala de agricultura.",
+  "vocabulario": [
+    {"termo": "hotter summers", "traducao": "verões mais quentes"},
+    {"termo": "yields", "traducao": "produtividade / quantidade colhida"},
+    {"termo": "to harvest", "traducao": "colher (a safra)"}
+  ]
+}

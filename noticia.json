@@ -1,12 +1,12 @@
 {
-  "data": "2026-10-12",
+  "data": "2026-10-19",
   "fonte": "BBC News",
-  "manchete": "Why hotter summers are making British potatoes smaller",
-  "url": "https://www.bbc.co.uk/news/articles/cmp3033l15qwo",
-  "comentario": "Olha que estrutura útil nessa manchete: \"make + algo + adjetivo\", como em \"making potatoes smaller\", que significa \"fazer com que fiquem menores\". Os britânicos usam muito esse padrão no dia a dia, por exemplo \"This makes me nervous\". Repare também que \"yields\" no texto quer dizer a quantidade colhida, um uso muito comum quando se fala de agricultura.",
+  "manchete": "People playing loud music on buses could face £100 fine",
+  "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo",
+  "comentario": "Repare na expressão \"could face a fine\" – em inglês britânico, dizemos que a pessoa \"enfrenta\" (face) uma multa, em vez de simplesmente \"receber\" uma multa. Você vai ouvir também \"face a charge\" ou \"face a penalty\" em notícias e avisos oficiais, então vale guardar esse collocation!",
   "vocabulario": [
-    {"termo": "hotter summers", "traducao": "verões mais quentes"},
-    {"termo": "yields", "traducao": "produtividade / quantidade colhida"},
-    {"termo": "to harvest", "traducao": "colher (a safra)"}
+    {"termo": "to face a fine", "traducao": "estar sujeito a uma multa"},
+    {"termo": "antisocial behaviour", "traducao": "comportamento antissocial / inconveniente"},
+    {"termo": "passengers", "traducao": "passageiros"}
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "data": "2026-10-26",
+  "data": "2026-11-01",
   "fonte": "BBC News",
-  "manchete": "Lula wins fourth term in dramatic Brazil election comeback",
-  "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo",
-  "comentario": "A diferença foi de 4,4 milhões de votos — guarde a expressão \"a margin of\": \"Lula won by a margin of 4.4 million votes.\" Flávio Bolsonaro se recusou a reconhecer o resultado — \"refuses to concede\". O oposto, aceitar a derrota com dignidade, é \"to concede defeat\". E a frase que resume tudo veio do próprio Lula, na comemoração: \"Long live democracy!\" — o mesmo tom usado por líderes do mundo todo: a presidente da Comissão Europeia disse que quem venceu foi \"democracy and multilateralism\".",
+  "manchete": "Northern Lights dance across UK sky on Halloween night",
+  "url": "https://www.bbc.co.uk/weather/articles/c3pwge119lnvo",
+  "comentario": "Olha que legal, pessoal: na manchete, os britânicos dizem que as luzes \"dance across\" o céu, ou seja, \"dançam pelo céu\". Em inglês, é bem natural usar verbos de movimento como dance para descrever coisas bonitas na natureza, e isso deixa o texto muito mais vivo do que simplesmente dizer \"appear\". Tente usar essa ideia quando for descrever uma paisagem!",
   "vocabulario": [
-    {"termo": "a margin of (votes)", "traducao": "uma margem/diferença de (votos)"},
-    {"termo": "to concede defeat", "traducao": "aceitar/reconhecer a derrota (com dignidade)"},
-    {"termo": "\"Long live democracy!\"", "traducao": "\"Viva a democracia!\""}
+    {"termo": "Northern Lights", "traducao": "aurora boreal"},
+    {"termo": "stargazers", "traducao": "observadores de estrelas / amantes da astronomia"},
+    {"termo": "were treated to", "traducao": "tiveram o prazer de ver / foram presenteados com"}
   ]
 }

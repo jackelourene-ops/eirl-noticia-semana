@@ -1,12 +1,12 @@
 {
-  "data": "2026-11-01",
+  "data": "2026-11-02",
   "fonte": "BBC News",
   "manchete": "Northern Lights dance across UK sky on Halloween night",
   "url": "https://www.bbc.co.uk/weather/articles/c3pwge119lnvo",
-  "comentario": "Olha que legal, pessoal: na manchete, os britânicos dizem que as luzes \"dance across\" o céu, ou seja, \"dançam pelo céu\". Em inglês, é bem natural usar verbos de movimento como dance para descrever coisas bonitas na natureza, e isso deixa o texto muito mais vivo do que simplesmente dizer \"appear\". Tente usar essa ideia quando for descrever uma paisagem!",
+  "comentario": "Olha que bonito o verbo da manchete: os britânicos dizem que as luzes \"dance across\" o céu, ou seja, elas \"dançam\" por ele! É uma forma bem natural e visual de descrever algo que se move com leveza. Na descrição, repare também em \"were treated to\", que significa \"ganharam de presente um espetáculo\", e se usa muito para falar de uma experiência agradável.",
   "vocabulario": [
-    {"termo": "Northern Lights", "traducao": "aurora boreal"},
-    {"termo": "stargazers", "traducao": "observadores de estrelas / amantes da astronomia"},
-    {"termo": "were treated to", "traducao": "tiveram o prazer de ver / foram presenteados com"}
+    {"termo": "dance across", "traducao": "dançar pelo (céu)"},
+    {"termo": "stargazers", "traducao": "observadores de estrelas"},
+    {"termo": "were treated to", "traducao": "foram presenteados com"}
   ]
 }

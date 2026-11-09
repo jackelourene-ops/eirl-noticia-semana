@@ -1,12 +1,12 @@
 {
-  "data": "2026-11-02",
+  "data": "2026-11-09",
   "fonte": "BBC News",
-  "manchete": "Northern Lights dance across UK sky on Halloween night",
-  "url": "https://www.bbc.co.uk/weather/articles/c3pwge119lnvo",
-  "comentario": "Olha que bonito o verbo da manchete: os britânicos dizem que as luzes \"dance across\" o céu, ou seja, elas \"dançam\" por ele! É uma forma bem natural e visual de descrever algo que se move com leveza. Na descrição, repare também em \"were treated to\", que significa \"ganharam de presente um espetáculo\", e se usa muito para falar de uma experiência agradável.",
+  "manchete": "A glimmer of good news for Britain's sleepy dormouse",
+  "url": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o",
+  "comentario": "Reparem na expressão \"a glimmer of good news\" na manchete: um \"glimmer\" é uma luzinha fraca, então os britânicos usam essa palavra para falar de um pequeno sinal de esperança, sem prometer que tudo está resolvido. É muito natural em inglês britânico, e você pode usar em conversas do dia a dia, como \"a glimmer of hope\".",
   "vocabulario": [
-    {"termo": "dance across", "traducao": "dançar pelo (céu)"},
-    {"termo": "stargazers", "traducao": "observadores de estrelas"},
-    {"termo": "were treated to", "traducao": "foram presenteados com"}
+    {"termo": "a glimmer of good news", "traducao": "um sinal de boa notícia / um raio de esperança"},
+    {"termo": "sleepy", "traducao": "sonolento, dorminhoco"},
+    {"termo": "recovering", "traducao": "se recuperando"}
   ]
 }

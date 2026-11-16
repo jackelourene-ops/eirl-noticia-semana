@@ -1,12 +1,12 @@
 {
-  "data": "2026-11-09",
+  "data": "2026-11-16",
   "fonte": "BBC News",
-  "manchete": "A glimmer of good news for Britain's sleepy dormouse",
-  "url": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o",
-  "comentario": "Reparem na expressão \"a glimmer of good news\" na manchete: um \"glimmer\" é uma luzinha fraca, então os britânicos usam essa palavra para falar de um pequeno sinal de esperança, sem prometer que tudo está resolvido. É muito natural em inglês britânico, e você pode usar em conversas do dia a dia, como \"a glimmer of hope\".",
+  "manchete": "Hidden tongue movement found in 'strong R' study",
+  "url": "https://www.bbc.co.uk/news/articles/c63dg9m70xllo",
+  "comentario": "Olhem como o inglês britânico usa o verbo \"lead\" em \"the researcher who led the study\": em vez de dizer só \"did\" ou \"made\", os britânicos dizem \"led the research\" para falar de quem comanda um estudo ou projeto. Outra palavra que eu adoro é \"fascinating\", que soa muito mais natural e entusiasmada do que \"interesting\" quando algo realmente chama a nossa atenção!",
   "vocabulario": [
-    {"termo": "a glimmer of good news", "traducao": "um sinal de boa notícia / um raio de esperança"},
-    {"termo": "sleepy", "traducao": "sonolento, dorminhoco"},
-    {"termo": "recovering", "traducao": "se recuperando"}
+    {"termo": "hidden", "traducao": "escondido, oculto"},
+    {"termo": "led the research", "traducao": "liderou a pesquisa"},
+    {"termo": "fascinating", "traducao": "fascinante"}
   ]
 }
